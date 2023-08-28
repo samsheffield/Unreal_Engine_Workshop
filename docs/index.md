@@ -17,7 +17,7 @@ No prior programming or game design experience required.
 
 ## Weekly Class Notes
 
-[Week 1 (08/28)]((week1.md)):
+[Week 1 (08/28)](week1.md):
   - Welcome! We're onboarding this week
 
 Week 2 (09/04):
