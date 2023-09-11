@@ -23,7 +23,7 @@ No prior programming or game design experience required.
 Week 2 (09/04):
   - Labor Day Holiday
 
-Week 3 (01/31):
+[Week 3 (09/11)](week3.md):
   - Getting started with UE5. 
   - Working with the Level Editor
   - UE5's basic building blocks (Actors and Brushes)
