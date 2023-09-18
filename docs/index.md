@@ -29,4 +29,15 @@ Week 2 (09/04):
   - UE5's basic building blocks (Actors and Brushes)
   - Editing components
   - Quick look at the Material Editor (more next week!)
-  - Common tasks when setting up a level
+
+  [Week 4 (09/18)](week4.md):
+  - Common tasks when setting up a level (Starting from scratch)
+  - Environment Light Mixer panel
+  - Editing geometry brushes (Brush Editing Mode)
+  - Converting brushes to static meshes
+  - Adding collision geometry
+  - Importing FBX models
+  - Material Editor (Texture Sample nodes)
+  - Adding playable Characters from Starter Content
+
+
