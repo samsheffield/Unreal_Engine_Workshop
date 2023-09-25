@@ -30,7 +30,7 @@ Week 2 (09/04):
   - Editing components
   - Quick look at the Material Editor (more next week!)
 
-  [Week 4 (09/18)](week4.md):
+[Week 4 (09/18)](week4.md):
   - Common tasks when setting up a level (Starting from scratch)
   - Environment Light Mixer panel
   - Editing geometry brushes (Brush Editing Mode)
@@ -40,4 +40,12 @@ Week 2 (09/04):
   - Material Editor (Texture Sample nodes)
   - Adding playable Characters from Starter Content
 
-
+[Week 5 (09/25)](week5.md):
+  - Volumes
+  - Post-Processing
+  - More on the Material Editor
+  - Displacement Maps
+  - Material Instancing and Parameters
+  - Components
+  - Converting Actors to Blueprint Classes
+  - Introduce Project 1
