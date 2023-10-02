@@ -49,3 +49,6 @@ Week 2 (09/04):
   - Components
   - Converting Actors to Blueprint Classes
   - Introduce Project 1
+
+[Week 6 (10/02)](week6.md):
+  - Introduction to Blueprints

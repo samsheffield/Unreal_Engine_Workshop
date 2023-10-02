@@ -6,6 +6,8 @@ Work with the materials we've been developing thus far to make something small w
 
 You're welcome to explore some things we haven't covered yet, but make sure that it plays a minor role (otherwise you may find yourself in over your head!)
 
+__You are not expected to make a fully functional game.__ Set your sights on something like a small immersive environment that a player can explore with minimal to no significant interaction.
+
 ### Collaboration
 You are allowed to collaborate with other people in this class if you'd like (maximum of 3 per team), as long as everyone has a role working with Unreal Engine.
 

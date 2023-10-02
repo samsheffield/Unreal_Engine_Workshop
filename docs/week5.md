@@ -175,5 +175,5 @@ Please zip your work folder and name it `yourname_week5_uew.zip` before uploadin
 For this assignment, you will turn in:
 - Preliminary planning document
 
-I sent out a link to the shared Google Drive folder to your MICA email last week. Please create a new folder in Project 1 for you (or your team) and [transfer the ownership to me](https://support.google.com/drive/answer/2494892?hl=en&co=GENIE.Platform%3DDesktop). __Please have all work uploaded before the start of class next week (10/02).__
+I sent out a link to the shared Google Drive folder to your MICA email last week. Please create a new folder in Project 1 for you (or your team). __Please have all work uploaded before the start of class next week (10/02).__
 
