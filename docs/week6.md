@@ -5,7 +5,7 @@ Some students are experiencing some issues with storage on their Google Drives, 
 
 If you are experiencing storage issues, you can remove the uploaded files from your Drive and transfer them to the class storage that I provide next week.
 
-Apolgies for theinconvenience.
+Apologies for the inconvenience.
 
 
 ## Resources:
@@ -211,7 +211,6 @@ Let's spend some time taking a look at everyone's weekend explorations.
 
 ## Open Exploration Project 1 (Due 10/23)
 The project description can be found [here](project1.md)
-
 
 
 # Homework
