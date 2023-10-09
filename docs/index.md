@@ -52,3 +52,7 @@ Week 2 (09/04):
 
 [Week 6 (10/02)](week6.md):
   - Introduction to Blueprints
+
+[Week 7 (10/08)](week7.md):
+  - Blueprints 2: Flow Control
+  - Work Session
