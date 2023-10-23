@@ -53,6 +53,13 @@ Week 2 (09/04):
 [Week 6 (10/02)](week6.md):
   - Introduction to Blueprints
 
-[Week 7 (10/08)](week7.md):
+[Week 7 (10/09)](week7.md):
   - Blueprints 2: Flow Control
   - Work Session
+
+Week 8 (10/16)
+  - Fall Break
+
+[Week 9 (10/23)](week9.md):
+  - Project Presentations & Review
+  - Packaging Basics
