@@ -63,3 +63,7 @@ Week 8 (10/16)
 [Week 9 (10/23)](week9.md):
   - Project Presentations & Review
   - Packaging Basics
+
+[Week 10 (10/30)](week10.md):
+  - Introduction to the UMG UI Designer
+  - Blueprint Functions intro
