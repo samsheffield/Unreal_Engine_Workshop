@@ -51,11 +51,6 @@ This demo is going to demonstrate a number of interconnected things that are nee
 
 # Homework
 
-## Package your Open Exploration Project
-You only need to create a package for your primary computer platform (Windows or MacOS). 
-
-Onc packaged, test the application and then zip the entire build folder (Rename it from Windows or MacOS to _yourname_project1_uew_). Upload this to your online Drive folder or have it ready to transfer to the external drive next week.
-
 ### Small Game Loop
 For this assignment, you will be creating a small complete game loop which goes from start screen to game level to end screen (and then loops back to start screen). You're welcome to use ths same mechanics that we introduced in-class today, but I want you to recreate the blueprints if you take that approach.
 

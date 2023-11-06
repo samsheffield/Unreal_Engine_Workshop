@@ -67,3 +67,8 @@ Week 8 (10/16)
 [Week 10 (10/30)](week10.md):
   - Introduction to the UMG UI Designer
   - Blueprint Functions intro
+
+[Week 11 (11/06)](week11.md):
+  - Working with sound
+  - World Settings & Overriding Game Modes
+  - GameInstance Class
