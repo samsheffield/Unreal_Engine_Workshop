@@ -149,7 +149,7 @@ Key nodes:
 ### Soundscape Exploration
 For this assignment, you will be creating a small explorable level which uses Sound Cues to reward and encourage curiosity. 
 
-This should begin at a start screen, swith to a game level, and then finally switch to an end screen which can return to the start screen with a keypress.
+This should begin at a start screen, switch to a game level, and then finally switch to an end screen which can return to the start screen with a keypress.
 
 _You are welcome to build upon any other classwork you've created for this class thus far._
 
