@@ -76,20 +76,19 @@ Week 8 (10/16)
 [Week 12 (11/13)](week12.md):
   - Brief introduction to Landscape Tools (1/2)
 
-[Week 13 (11/20)]()
+[Week 13 (11/20)](week13.md)
   - Landscape Tools (2/2)
   - Moving actors with Blueprint timelines and splines
-  - Introduction to Skeletal Mesh Animation (1/2)
+  - Working with Quixel Bridge 
   - Start project
 
 [Week 14 (11/27)]() (_Post-Thanksgiving class session_)
-  - Animation (2/2)
-  - Working with the UE Marketplace and Quixel Megascans
+  - Introduction to Skeletal Mesh Animation (1/2)
   - Work session
 
 [Week 15 (12/04)]()
+  - Animation (2/2)
   - Working with Particles
-  - Decals
   - Project reviews
   - Work session
 
