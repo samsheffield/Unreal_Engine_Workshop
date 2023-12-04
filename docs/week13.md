@@ -131,8 +131,6 @@ The Construction Script runs when an instance of a Blueprint Class is created. T
 - Set Actor Transform
 - Get Location at Spline Point and Set Actor Location (Both of these are in the Construction Script)
 
-## Landscape 
-
 # Homework
 
 ## Thanksgiving

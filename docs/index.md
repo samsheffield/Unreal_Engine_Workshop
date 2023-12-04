@@ -82,13 +82,12 @@ Week 8 (10/16)
   - Working with Quixel Bridge 
   - Start project
 
-[Week 14 (11/27)]() (_Post-Thanksgiving class session_)
+[Week 14 (11/27)](week14.md) (_Post-Thanksgiving class session_)
   - Introduction to Skeletal Mesh Animation (1/2)
   - Work session
 
-[Week 15 (12/04)]()
+[Week 15 (12/04)](week15.md)
   - Animation (2/2)
-  - Working with Particles
   - Project reviews
   - Work session
 
