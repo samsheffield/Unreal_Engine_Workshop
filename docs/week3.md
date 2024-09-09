@@ -83,9 +83,9 @@ Unreal Engine has a neat visual effects enabled by default. Sometimes these can 
 ## Greyboxing/Blockout Phase
 A greybox/blockout is a rough prototype of a level built using simple 3D shapes and lacking in detail or detailed art assets. Blockouts are used to prototype and test foundational shapes and spatial relationships within a level.
 
-_Fun Fact! Hideo Kojima designed levels for the original Metal Gear games using Lego and a camcorder ([image](/docs/images/Kojima_MG1_Lego.png))._
+_Fun Fact! Hideo Kojima designed levels for the original Metal Gear games using Lego and a camcorder ([image](https://drive.google.com/file/d/1wMhL1pLNk-Nfu0Se969zkQy9LjFYNPV6/view?usp=sharing))._
 
-Great example of a greyboxed level: Brian Baker's Docks map for Modern Warfare ([image](/docs/assets/images/COD_Docks_Blockout.jpg))  ([original link](https://x.com/JrBakerChee/status/1182384066881916928/photo/1))
+Great example of a greyboxed level: Brian Baker's Docks map for Modern Warfare ([image](https://drive.google.com/file/d/1o_7KrvE8u0GcXJwyWko69weKkgFLNBUW/view?usp=sharing)  ([original link](https://x.com/JrBakerChee/status/1182384066881916928/photo/1))
 
 
 ### Typical Level Design Workflow
@@ -97,7 +97,7 @@ During this phase, it's common to create a small _sandbox_ level to test mechani
 
 Examples:
 - [Splatoon Tofu Prototype](https://www.youtube.com/watch?v=0IJMXW0_dcU)
-- [Zelda Windwaker Prototyping](/docs/assets/images/zelda_windwaker_prototyping.jpg)
+- [Zelda Windwaker Prototyping](https://drive.google.com/file/d/1F08JFpdc7LdWYHm5JQ0cOqF-MYKv4F3u/view?usp=sharing)
 
 
 #### Ideation/Sketching/Research 
@@ -107,7 +107,7 @@ The first step is often just creating written lists of any goals and ideas the d
 
 
 Examples:
-- [Internal planning board for Last of Us](/docs/assets/images/Naughty_Dog_Planning_Board.png)
+- [Internal planning board for Last of Us](https://drive.google.com/file/d/1fyRjoy9apU49u55gzCsubVY0743CHnEx/view?usp=sharing)
 - Layout sketch
 - Moodboard
 
