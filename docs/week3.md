@@ -83,7 +83,7 @@ Unreal Engine has a neat visual effects enabled by default. Sometimes these can 
 ## Greyboxing/Blockout Phase
 A greybox/blockout is a rough prototype of a level built using simple 3D shapes and lacking in detail or detailed art assets. Blockouts are used to prototype and test foundational shapes and spatial relationships within a level.
 
-_Fun Fact! Hideo Kojima designed levels for the original Metal Gear games using Lego and a camcorder ([image](/docs/assets/images/Kojima_MG1_Lego.png))._
+_Fun Fact! Hideo Kojima designed levels for the original Metal Gear games using Lego and a camcorder ([image](/docs/images/Kojima_MG1_Lego.png))._
 
 Great example of a greyboxed level: Brian Baker's Docks map for Modern Warfare ([image](/docs/assets/images/COD_Docks_Blockout.jpg))  ([original link](https://x.com/JrBakerChee/status/1182384066881916928/photo/1))
 
