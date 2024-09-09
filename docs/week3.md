@@ -148,7 +148,7 @@ This week will be planning and greyboxing. Next week, you will flesh out the stu
 Criteria:
 - Start by creating a text document with your initial ideas, goals, and questions for the level.
 - Produce at least one sketch laying out your level. _This can be on paper or using an digital drawing software._
-- Create a moodboard using Milanote (or equivalent) with at least 10 reference images conveying elements, details, and feeling you want in your level.
+- Create a moodboard using Milanote (or equivalent) with at least 20 reference images conveying elements, details, and feeling you want in your level.
 - Use the Third Person Template as a base. _These are your mechanics._
 - Greybox level geometry using basic shape actors, geometry brushes, or static meshes created with the modeling tools. _Do not create any 3D assets outside of UE5 this week._ 
 - Level geometry must be made relative to scale with the player character.
@@ -156,7 +156,7 @@ Criteria:
 - The map does not need to be a 1:1 recreation of a real space, but you must use reference materials to inform the spatial relationships in your map.
 
 ### Important: What to turn in, where, and when
-Add a new folder to your root folder in the class drive called `lastname_firstname_greybox_study`. In this folder, add the following by the start of class next week(09/16):
+Add a new folder to your root folder in the class drive called `lastname_firstname_greybox_study`. In this folder, add the following by the start of class next week (09/16):
 
 - 3 high quality screenshots from UE5 which shows different views of your greyboxed map. _Don't forget to toggle Game View to remove the XYZ orientation widget._
 - A copy of your planning document with your ideas, goals, and questions about the level.
