@@ -24,3 +24,17 @@ No prior programming or game design experience required.
 
 Week 2 (09/04):
   - Labor Day Holiday
+
+[Week 3 (09/09)](week3.md):
+- Review basic editor overview (Viewport, Toolbars, Content Browser, Outliner, Details)
+- Select Editing Mode
+- Navigating the Viewport
+- Modes: Immersive mode (F11), Game (G), Orthographic views
+- Working with Actors
+- Creating and editing Materials (basics)
+- Reusing Actors as Blueprints
+- Creating and saving Levels (maps)
+- Geometry brushes and mesh modeling
+- Saving screenshots
+- Saving your work!
+- Greyboxing/Blockout process
