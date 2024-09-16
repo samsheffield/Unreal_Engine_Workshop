@@ -21,6 +21,7 @@ Welcome back Today, we'll meet as a group to...
 
 #### Where's my collider?!
 Documentation link [here](https://docs.unrealengine.com/5.4/en-US/setting-up-collisions-with-static-meshes-in-unreal-engine/)
+
 Converting a brush into a static mesh removes the colliders, but they are easy to replace.
 
 To do this:
@@ -29,15 +30,15 @@ To do this:
 - Having trouble generating a mesh: Set the `Collision Complexity` under `Collision` to `Use Complex Collision as Simple`
 
 ### Modeling Tools
-- Changing pivots: (XForm > Edit Pivot)
+- Create: Consider using shapes from here instead of the Basic Shapes Place Actors tab since they provide a lot of flexibility.
+- _GENERATED folder: When you create a static mesh it is placed in a folder relative to your current level. Feel free to rename and move it elsewhere.
+- Changing pivot points: (XForm > Edit Pivot)
 - To reshape a Static Mesh: (Model > Polygroup Edit)
 - Projecting a UV to a surface: (UV > Project UV)
 
 ### Temporarily set Pivot Offset
 - Alt + Middle Mouse click on new pivot point. This will stay active for one following action. 
 - You can also set this to be persistent by Right clicking > Pivot > Set as Pivot Offset and reset it with Pivot > Reset Pivot Offset.
-
-
 
 ## A little deeper into the Material Editor
 - Working with Textures
@@ -56,13 +57,31 @@ We will be focusing on the sophisticated realtime lighting ssytem in UE5 called 
 Lumen is Unreal Engine 5's fully dynamic global illumination and reflections system that is designed with next-generation and high end computing platforms in mind. It is the default global illumination and reflections system for Unreal Engine 5.
 
 ## Common Types of Lights
-- Directional Lights & Sun Light
-- Spot Lights, Point Lights, & Rect Lights
-- Ambient Lighting (Sky Lights)
-
 Documentation link [here](https://docs.unrealengine.com/5.4/en-US/light-types-and-their-mobility-in-unreal-engine/)
 
-## How to set up lights
+- Ambient Lighting (Sky Lights): Help establish shapes from background. Omnidirectional. Global impact.
+- Directional Lights & Sun: Help define shapes through a distincion with shadow. One direction. Global impact.
+- Spot Lights & Rect Lights: Directional light used to highlight shapes. One direction. Local impact.
+- Point Lights: Help draw attention to shapes.
+
+## Direct vs Indirect Lighting
+Direct lighting involves the actual shining of a light at a surface. Indirect lighting is the effect of the light bouncing off of one surface onto another. Together, these are referred to as Global Illumination.
+
+[Example](https://drive.google.com/file/d/1sKPAsSCBzdWPOdgCiWvKrHSZ-AlAVDM1/view?usp=sharing) of 3 types (unlit, direct, and indirect + direct).
+
+## Three Point Lighting
+Three Point Lighting is a practical lighting theory used in cinema and photography. This theory utilizes three _types_ of lighting to light a subject. This can be applied to games, though it is challenged by the mobile nature of many games' camera.
+
+Three Point Lighting consists of:
+- Key light: The key light is the main light in a scene.
+- Fill light: Used to control the amount of contrast. Typically less intense than Key light.
+- Rim light: Sometimes called back light or hair light. Used to separate subject from the background.Video games often use a fresnel effect for this.
+
+A [standard setup](https://steamuserimages-a.akamaihd.net/ugc/578979510333219336/FD338BA9529937014E2FB7E9AC0DBA03374E071F/) might look like this.
+
+[Examples from film (Does three point lighting suck?)](https://lightingpixels.blogspot.com/2013/01/tutorials-does-three-point-lighting-suck.html)
+
+## How to set up lights in Unreal
 - Setting up environmental lights
 - Setting up point, spot, and rect lights
 - Most common properties (exposure, color, temperature, source/attenuation radius)
@@ -108,7 +127,7 @@ Unreal provides a tool to access this library called Quixel Bridge.
 _Note: This is the second  part of a two week assignment. Please focus on lighting and texturing this week._
 
 
-This week, you will continue developing your study of a small interior or exterior space with one point of interest by adding lighting, textured materials, and small props. You are encouraged to experiment, explore, and make a mess. Try things out and don't be afraid to make mistakes!
+This week, you will continue developing your study of a small interior or exterior space with one point of interest by adding lighting, textured materials, and small props. Consider the mood or atmosphere of the space you are creating. You are encouraged to experiment, explore, and make a mess. Try things out and don't be afraid to make mistakes!
 
 Criteria:
 - Make any desired adjustments to your greyboxed level.
