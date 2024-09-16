@@ -92,7 +92,7 @@ How to deal with splotchy lighting (AKA "Lumen Crawling") with a Post Processing
 In low lighting situations, Lumen can often produce an effect similar to light reflecting off of the surface of a swimming pool. This is sometimes referred to as "Lumen Crawling". This can sometimes be tricky to completely eliminate, but it is possible to minimize the effect using the following approaches.
 
 ### Post-Processing Volumes
-A Post-Procssing Volume is XXX. Post-Processing Volumes can have their effects limited to particular areas or applied everywhere on a level. These volumes are added through the Place Actors panel.
+Post-Processing Volumes can have their effects limited to particular areas or applied everywhere on a level. These volumes are added through the Place Actors panel.
 
 To extend the bounds of a volume infinitely, search for Infinite Extent in the Details panel for the volume and check the box.
 
