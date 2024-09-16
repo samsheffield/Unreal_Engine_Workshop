@@ -65,6 +65,11 @@ Documentation link [here](https://docs.unrealengine.com/5.2/en-US/working-with-l
 
 ## Bonus Materials 
 
+### Player Start Actor
+Documentation link [here](https://docs.unrealengine.com/5.4/en-US/player-start-actor-in-unreal-engine/)
+
+This actor indicates a location where the player character will spawn and what direction it will face in the level. It can be found under the `Basic` heading in the `Place Actors Panel`.
+
 ### Disabling Default Postprocessing
 Unreal Engine has a neat visual effects enabled by default. Sometimes these can be _a bit much._ To quickly disable these:
 - Project Settings > Engine > Rendering > Default Settings (Can also search for rendering or default settings).

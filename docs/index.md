@@ -38,3 +38,10 @@ Week 2 (09/04):
 - Saving screenshots
 - Saving your work!
 - Greyboxing/Blockout process
+
+[Week 4 (09/16)](week4.md):
+- Review blockouts/greyboxing
+- Recap/expand conversation on Static Mesh modeling tools and BSP brushes
+- Working with textures and maps in the Material Editor
+- Discuss realtime global illumination in Unreal Engine 5 (Lumen)
+- Introduce Quixel integration
