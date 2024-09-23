@@ -7,7 +7,7 @@
 - Print a message for testing
 - Destroy an Actor
 - Keep track of things with variables
-- Creating Sustom Events
+- Creating Custom Events
 
 ## What is a Blueprint?
 Blueprint has more than one meaning in Unreal Engine.
