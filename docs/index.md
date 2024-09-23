@@ -45,3 +45,9 @@ Week 2 (09/04):
 - Working with textures and maps in the Material Editor
 - Discuss realtime global illumination in Unreal Engine 5 (Lumen)
 - Introduce Quixel integration
+
+[Week 5 (09/23)](week5.md):
+- Colliders
+- Intro to Blueprints
+- Begin Overlap, Print String, Comments, Variables, Destroy Actor, Cast To, Custom Event, Spawn Actor
+- Review homework
