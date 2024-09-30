@@ -99,7 +99,7 @@ The project description can be found [here](project1.md)
 
 
 ### Important: What to turn in, where, and when
-Add a new folder to your root folder in the class drive called `lastname_firstname_project1`. In this folder, add the following by the start of class next week (09/16):
+Add a new folder to your root folder in the class drive called `lastname_firstname_project1`. In this folder, add the following by the start of class next week (10/07):
 
 - 3 high quality screenshots from UE5 which shows different views of your greyboxed map or prototyping. _Don't forget to toggle Game View to remove the XYZ orientation widget._
 - A copy of your planning document with your ideas, goals, and questions about the level. (See link above.)
