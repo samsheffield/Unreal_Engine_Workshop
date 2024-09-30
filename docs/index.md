@@ -50,4 +50,10 @@ Week 2 (09/04):
 - Colliders
 - Intro to Blueprints
 - Begin Overlap, Print String, Comments, Variables, Destroy Actor, Cast To, Custom Event, Spawn Actor
-- Review homework
+
+[Week 6 (09/30)](week6.md):
+- Working with the First Person Character Blueprint
+- Importing and exporting FBX meshes
+- Creating Material Instances
+- Working with Post Processing Volumes
+- Introduce Project 1
