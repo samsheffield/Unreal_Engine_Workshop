@@ -57,3 +57,12 @@ Week 2 (09/04):
 - Creating Material Instances
 - Working with Post Processing Volumes
 - Introduce Project 1
+
+[Week 7 (10/07)](week7.md):
+- Switching and Reloading Levels
+- Working with Components (Blueprints)
+- Importing and playing sound (Simple approach)
+- Ignore Move Input from the Player Controller
+- Bonus: Fade-in and out effect.
+- Project 1 Check-ins & Work Session
+
