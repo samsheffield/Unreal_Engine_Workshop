@@ -70,5 +70,5 @@ Find time after the break to _nearly_ complete your project. Things will need to
 ### Important: What to turn in, where, and when
 In the `lastname_firstname_project1` folder you created for homework last week, add the following:
 
-- 3 high quality screenshots from UE5 which shows different views of your greyboxed map or prototyping. _Don't forget to toggle Game View to remove the XYZ orientation widget._
-- Completed Unreal Engine Project.
+- 3 high quality screenshots from UE5 which shows different views of your completed project. _Don't forget to toggle Game View to remove the XYZ orientation widget._
+- Completed Unreal Engine Project. _Make sure to upload the project folder and all of its contents!_
