@@ -66,3 +66,9 @@ Week 2 (09/04):
 - Bonus: Fade-in and out effect.
 - Project 1 Check-ins & Work Session
 
+Week 8 (10/14):
+- Fall Break
+
+[Week 9 (10/21)](week9.md):
+- Projects due for review
+- Weekend demo: UI & Game Mode Basics
