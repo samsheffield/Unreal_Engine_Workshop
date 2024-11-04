@@ -72,3 +72,10 @@ Week 8 (10/14):
 [Week 9 (10/21)](week9.md):
 - Projects due for review
 - Weekend demo: UI & Game Mode Basics
+
+Week 10 (10/28):
+- No class. Sam is sick.
+
+[Week 11 (11/04)](week11.md):
+- UI Widgets
+- Weekend demo: Landscape Tool Basics 
