@@ -64,6 +64,8 @@ Follow along with my demo and create a new UE project which includes:
     - One level is a small landscape that has a goal indicated with worldspace UI. Reaching this goal should return to the Start screen.
     - A pause menu with two buttons: RESUME (exits pause mwnu) and RETURN TO TITLE (exits to Start screen).
 
+__Important: You will need to make a Game Mode Blueprint for each level and set them in the World Settings panel. If you only set a Game Mode in Project settings it will appear that the UI from the Start screen is not going away.__ [What's World Settings?](https://dev.epicgames.com/documentation/en-us/unreal-engine/world-settings-in-unreal-engine)
+
 Don't get bogged down in high realism for this assignment. My recommendation is to experiment with the tools and use _reference imagery_ to set some visual goals for yourself. Also, don't forget to use use basic things like light, color, and shape to encourage players towards their destination.
 
 __Bring this in-progress UE project to class next week as a jumping off point for further discussion on working with the Landscape Tools & Foliage Brushes.__
@@ -84,5 +86,5 @@ _Tronster Hartley is a seasoned game developer with experience building video ga
 
 _In his spare time, Tronster actively promotes the video game industry, especially around Baltimore. He occasionally teaches as an adjunct professor at UMBC or UBalt. As the chair and a founding member of Baltimore's International Game Developers Association (IGDA) chapter, he helps foster the local game development community. He also created the MAGFest Indie Videogame Showcase, featured annually at the MAGFest convention in Washington, DC._
 
-### Narrative Design Visitor Next Week!
+### Narrative Design Visitor This Week!
 If you took Narrative Design last year, you're welcome to join this semester's class in a Visual Novel workshop/talk led by [Caroline "Mado" Zeghibe](https://madocactus.itch.io/) this Wednesday from 4-6:30 in D240. _Please let me know in advance if you're interested in participating._
