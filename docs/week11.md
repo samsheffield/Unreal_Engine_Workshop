@@ -53,7 +53,7 @@ A video of today's demo can be found [here](https://youtu.be/h94ebz90vyw?si=PH1t
 # Homework
 
 ## Landscape Tools Demo
-This weekend, you'll be getting a headstart on our next topic of discussion- working with the Landscape Tools. __I'll add a link to a demo by Wednesday morning__ which I've created which demonstrates the basics of Landscape creation in UE5.
+This weekend, you'll be getting a head start on our next topic of discussion- working with the Landscape Tools. [Here is a video](https://youtu.be/278ckX2pmX8?si=iAT09vuT6BXzMw4Y) that I've created which demonstrates the basics of Landscape creation in UE5.
 
 ## For next week
 Create a small level with the landscape tools that leads a player to a destination using either a first or third person character controller. You will add foliage and a spline-based path to this level next week in class.
@@ -62,7 +62,7 @@ Follow along with my demo and create a new UE project which includes:
 - Two levels:
     - One level is a Start screen and should include a Widget Blueprint that has text, an image, and a button which loads a game level.
     - One level is a small landscape that has a goal indicated with worldspace UI. Reaching this goal should return to the Start screen.
-    - A pause menu with two buttons: RESUME (exits pause mwnu) and RETURN TO TITLE (exits to Start screen).
+    - A pause menu with two buttons: RESUME (exits pause menu) and RETURN TO TITLE (exits to Start screen).
 
 __Important: You will need to make a Game Mode Blueprint for each level and set them in the World Settings panel. If you only set a Game Mode in Project settings it will appear that the UI from the Start screen is not going away.__ [What's World Settings?](https://dev.epicgames.com/documentation/en-us/unreal-engine/world-settings-in-unreal-engine)
 
