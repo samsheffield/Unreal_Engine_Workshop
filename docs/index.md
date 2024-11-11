@@ -79,3 +79,6 @@ Week 10 (10/28):
 [Week 11 (11/04)](week11.md):
 - UI Widgets
 - Weekend demo: Landscape Tool Basics 
+
+[Week 12 (11/11)](week12.md):
+- Landscape and Foliage Tools
