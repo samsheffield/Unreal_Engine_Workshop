@@ -82,3 +82,9 @@ Week 10 (10/28):
 
 [Week 12 (11/11)](week12.md):
 - Landscape and Foliage Tools
+
+[Week 13 (11/18)](week13.md):
+- Making things move!
+- Blueprint Timelines
+- Spline movement
+- Skeletal Mesh Animation Basics (Animation Assets, Animation Blueprint setup, Retargeting)

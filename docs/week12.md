@@ -1,4 +1,4 @@
-# Creating User Interfaces
+# Landscape and Foliage Modes
 
 ## Landscape Tools
 The Landscape system inside of Unreal Engine is a collection of tools that allow you to create expansive outdoor environments.
