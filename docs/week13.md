@@ -1,7 +1,7 @@
 # Creating Movement
 
 ## Demo video
-I will have a video of today's demos uploaded by tomorrow (just needs editing!)
+[Here is a link](https://youtu.be/cUnFn5rq9JI?si=LMKa5fcwjTw5rRVK) to a video of today's demos.
 
 ## Assets for today's Demo
 [Here is a link](https://drive.google.com/file/d/1UvXVqyHmepPoWlY-raefQ6H5vevsMpnJ/view?usp=sharing) to some assets for this week's demos (courtesy of Mixamo.com).
@@ -56,7 +56,7 @@ Animation Sequences can be put into State Machines, which allow you to transitio
 # Homework
 
 ## Player Retargeting Demo
-I will post a video demonstrating how to retarget the default mannequin's animation to a new skeletal mesh. That means, you will be able to replace your player's mesh AND animation (finally!)
+[Here is a video](https://youtu.be/uWBIU9RU89g?si=GbsnzeppDhcnI3Hn) demonstrating how to retarget the default mannequin's animation to a new skeletal mesh. That means, you will be able to replace your player's mesh AND animation (finally!)
 
 - Retarget the player's skeletal mesh.
 - Replace the Run and Walk animations.
