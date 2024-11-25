@@ -9,7 +9,7 @@ The development period is roughly three weeks (one class meeting is interrupted 
 
 An interesting, refined prototype/study/exploration with "beautiful corners" is _perfect_. 
 
-__2. You are not expected to make a fully functional game.__ If you are interested in making something game-like, aim for something like a small, interesting, interactive environment that a player can explore. Rely on the First and Third Person Character Controller Bluprints for core mechanics instead of inventing somethingmore novel at this point.
+__2. You are not expected to make a fully functional game.__ If you are interested in making something game-like, aim for something like a small, interesting, interactive environment that a player can explore. Rely on the First and Third Person Character Controller Bluprints for core mechanics instead of inventing something more novel at this point.
 
 __3. You're welcome to explore things we haven't covered.__ To minimize risk, make sure that it either plays a minor role or is well-documented online*. Otherwise, you may quickly find yourself in way over your head and without support!
 
