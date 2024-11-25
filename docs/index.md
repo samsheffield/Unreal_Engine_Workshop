@@ -88,3 +88,7 @@ Week 10 (10/28):
 - Blueprint Timelines
 - Spline movement
 - Skeletal Mesh Animation Basics (Animation Assets, Animation Blueprint setup, Retargeting)
+
+[Week 14 (11/25)](week14.md):
+- Level Sequencer
+- Final Project Work Session
