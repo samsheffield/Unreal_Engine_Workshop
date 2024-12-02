@@ -92,3 +92,7 @@ Week 10 (10/28):
 [Week 14 (11/25)](week14.md):
 - Level Sequencer
 - Final Project Work Session
+
+[Week 15 (12/02)](week15.md):
+- Weekend Demo: Packaging Basics
+- Work Session

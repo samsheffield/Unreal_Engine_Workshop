@@ -48,7 +48,7 @@ Components in Blueprints are referred to using variables. To manipulate a compon
 Key Nodes:
 - Set Visibility 
 
-## Working with Sound (Part 1/2)
+## Working with Sound (Basics)
 
 ### Simplest way to play a sound: Play Sound 2D
 To play a sound with no attenuation, you can use the Play Sound 2D node. It is designed for non-gameplay sounds such as UI, but can be used for in-game sounds as well (uncheck the Is UISound box).
