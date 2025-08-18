@@ -13,7 +13,7 @@ No prior programming or game development experience required.
 
 
 ## Syllabus
-- PDF is available [here]()
+- Available [here](https://docs.google.com/document/d/1xYXe3wOzgQ2JTXj4eOaivxviSrQxQDozr6c8c0Gz8I8/edit?usp=sharing).
 
 ## Weekly Class Notes
 
