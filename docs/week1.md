@@ -143,28 +143,49 @@ Instructions on connecting to the Picasso file server can be found [here](https:
 
 _Note: It is slightly more complicated to do from off-campus, so I'd recommend getting things set up first while on-campus._
 
-## Week 1 Homework: Greybox Study (Due 09/08)
+## Week 1 Homework: Level Design Study (Due 09/08)
 
-### Assignment Summary
+### Assignment Details
+__Design and block out a small playable level in Unreal Engine, focusing on level design principles rather than polished art.__ 
 
-Design and block out a small interior or exterior space in Unreal Engine with one point of visual interest. Focus on planning, research, and greyboxing, not polished art. Use sketches, references, and a moodboard to guide your decisions, then build a rough version of your level using simple shapes and materials. 
+Use only basic shapes and the assets included in the First Person Template (Variant: None) folders in the Content Browser.
 
-__The goal is to practice thinking like a level designer by turning ideas into playable spaces.__
+This exercise is about planning, experimenting with spatial relationships, and creating a playable space using greyboxing techniques.  
 
-Focus on planning, research, and your initial blockout (along with some tinkering in the Unreal Editor!) Next class, we’ll discuss real-time lighting, textured materials, and Unreal Engine’s Static Mesh Modeling Tools, which you’ll then incorporate into your blocked-out space.
+> **Assignment Goal:** Practice thinking like a level designer by turning ideas into playable spaces using simple geometry.
 
-### Important Steps
 
-1. __Document your ideas__ – Write down goals, ideas, and questions.
-2. __Gather references__ – Create a moodboard with at least 10 images conveying key spatial relationships, environmental details, and overall mood.
-3. __Sketch your layout__ – On paper or digitally, plan your level structure and point of interest. _Note: Unreal Engine is not a sketching tool._
-4. __Optional: Gather more references__ – Do you need more points of reference?
-5. __Set up base mechanics__ – For this assignment, your mechanics will be provided by the First Person Template (Variant: None). _Please do not use alternative variants or controller templates._
-6. __Greybox your level__ – Block out geometry with basic shapes; keep scale relative to the player.
-7. __Apply basic materials__ – Assign simple materials to actors to distinguish different elements in your blockout. _No textures for this assignment._
-8. __Iterate and experiment__ – Test, tweak, and explore ideas; use references and sketches to guide changes. _Most importantly: does the scale feel correct as you move through the space?_
+## Important Steps
 
-### Important: What to Turn In, Where, and When
+1. **Document Your Ideas**  
+   - Write down goals for your level. _What are you trying to accomplish?_
+   - Include questions and ideas about how the space should feel and function.  
+
+2. **Sketch Your Layout**  
+   - Plan your level structure, marking any points of interest and how you imagine a player moving through the space.  
+   - Sketches can be digital or on paper.  
+   - *Note: Unreal Engine is not a sketching tool; this step is purely planning.*  
+
+3. **Set Up Base Mechanics**  
+   - Use the First Person Template (Variant: None) for player controls and interaction.  
+   - Do not use alternative project templates or mechanics outside of what is included. 
+
+4. **Greybox Your Level**  
+   - Use basic shapes from the Place Actors panel as well as the static meshes included in the Meshes folder to block out your level.  
+   - You may also use the Blueprint Actors from the Interactables folder to create a sense of progression to your space.  
+   - Pay attention to player scale in all areas.   
+   - Focus on spatial relationships, movement, and flow, not visual polish.  
+
+5. **Apply Basic Materials**  
+   - Assign simple materials (colors, basic shading) created with the Material Editor to distinguish objects, floors, and key gameplay areas.  
+   - Do not use textures for this assignment.  
+
+6. **Iterate and Experiment**  
+   - Test your level frequently in Play Mode.  
+   - Adjust scale, layout, and flow as needed.  
+
+
+## Deliverables
 
 Create a new folder in your Picasso class drive folder named:  
 **Lastname_Firstname_GMD265_01**
@@ -174,9 +195,8 @@ By the start of next class, add the following:
 1. **Screenshots** – 3 high-quality images from UE5 showing different views of your greyboxed map. Don’t forget to toggle **Game View** to hide the XYZ orientation widget (Hint: G key).  
 2. **Planning Document** – A digital copy of your document with your ideas, goals, and questions about the level.  
 3. **Level Layout Sketch(es)** – A digital copy of your sketches.  
-4. **Research Moodboard** – A screenshot or link to your moodboard. For Milanote, choose **Invite editors with a link** and include that link in a text document.
+4. **Unreal Engine Project Folder** - Make sure to include the entire folder and not just the ueproject file.
 
-_Note: You do **not** need to turn in UE project files this week. Week 3 homework will be a revision of this project, which you will submit by the start of week 4._
 
 ## Optional, but recommended
 1. Join the MGL Discord (if you aren't already there). 
