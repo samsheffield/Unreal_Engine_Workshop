@@ -17,7 +17,7 @@ No prior programming or game development experience required.
 
 ## Weekly Class Notes
 
-[Week 1 (08/25)]():
+[Week 1 (08/25)](week1.md):
   - Welcome!
   - Getting to know Unreal Engine 5
   - Working with Actors
@@ -29,11 +29,11 @@ Week 2 (09/01):
 
 [Week 3 (09/08)]():
 - Working with UE5's static mesh modeling tools 
-- Introduction to Blueprints
+- Realtime lighting in UE5
 - Working with materials with texture maps
 
 [Week 4 (09/15)]():
-- Realtime lighting in UE5
+- Introduction to Blueprints
 - Managing Levels/Maps
 - Making Actors move with Blueprints!
 
