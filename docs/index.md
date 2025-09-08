@@ -27,10 +27,10 @@ No prior programming or game development experience required.
 Week 2 (09/01):
   - Labor Day Holiday
 
-[Week 3 (09/08)]():
-- Working with UE5's static mesh modeling tools 
+[Week 3 (09/08)](week3.md):
 - Realtime lighting in UE5
 - Working with materials with texture maps
+- Working with Post Processing Volumes
 
 [Week 4 (09/15)]():
 - Introduction to Blueprints
@@ -39,7 +39,7 @@ Week 2 (09/01):
 
 [Week 5 (09/22)]():
 - Importing static meshes from Blender/Maya/etc. (FBX files)
-- Working with Volumes (Applying SFX with Post Processing)
+- Working with UE5's static mesh modeling tools 
 - Editing colliders
 
 [Week 6 (09/29)]():
