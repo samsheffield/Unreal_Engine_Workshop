@@ -1,5 +1,5 @@
 # W E L C O M E ! !
-So excited to welcome you all back from the holdiay. Today, we'll meet as a group to discuss...
+So excited to welcome you all back from the holiday. Today, we'll meet as a group to discuss...
 - Realtime lighting in UE5
 - More working with materials
 - Post-processing effects
