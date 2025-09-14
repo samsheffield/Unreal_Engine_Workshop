@@ -32,7 +32,7 @@ Week 2 (09/01):
 - Working with materials with texture maps
 - Working with Post Processing Volumes
 
-[Week 4 (09/15)]():
+[Week 4 (09/15)](week4.md):
 - Introduction to Blueprints
 - Managing Levels/Maps
 - Making Actors move with Blueprints!

@@ -104,10 +104,10 @@ The Post Process Volume Settings are specific settings for this placed volume an
 ### Important! Default Post Processing
 Unreal Engine uses some default post processing settings, even if you don't have a placed Post Process Volume in your Level. These default post process settings can be found and configured in the Project Settings in the `Rendering > Default Settings` section. It's often a good idea to disable these if you want to start with a clean slate.
 
-## Class TA! Duncan Kelly!
-Duncan will be here from 1-3pm during class and available for office hours in D200 (Game Lab) on Wednesday from 1-3pm.
+## Class TA!
+Our TA will be here from 1-3pm during class and available for office hours in D200 (Game Lab) on Wednesday from 1-3pm.
 
-Please do not reach out to Duncan for help outside of these times.
+Please do not reach out to the TA for help outside of these times.
 
 
 # Homework
