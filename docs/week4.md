@@ -3,7 +3,6 @@ So excited to welcome you all back from the holiday. Today, we'll meet as a grou
 - Introduction to Blueprints
 - Managing Levels/Maps
 - Physics and Collision
-- Making Actors move with Blueprints!
 
 We'll also...
 - Door Problem + Video
@@ -98,54 +97,9 @@ We’ll focus on Blueprint Classes (Actor Blueprints) because:
 
 ---
 
-## Bonus Materials: Moving Actors with Blueprints
-
-### Important: Actor Mobility
-- Reminder: set Actor Mobility to `Movable` in the Details panel before applying movement.
-
-
-### Basic Movement with Components
-
-#### Rotating Movement Component
-- Add this component to rotate an Actor automatically.  
-
-### Blueprint Timelines
-- Timeline nodes allow for time-based animations driven by floats, vectors, or colors.  
-- Useful for:  
-  - Smooth motion  
-  - Color fades  
-  - Light intensity changes  
-
-🔗 [Unreal Documentation](https://docs.unrealengine.com) includes examples like fading lights and changing color.  
-
-### Useful Nodes
-- `Add Timeline`  
-- `Set Play Rate`  
-- `Lerp (Vector)`  
-- `Set Relative Location`  
-
----
-
-### Spline Movement
-- The **Spline component**, combined with a **Timeline**, allows an Actor to move along a path.  
-
-#### Useful Nodes
-- `Get Spline Length`  
-- `Get Location at Distance Along Spline` (Coordinate Space: World)  
-- `Get Rotation at Distance Along Spline` (Coordinate Space: World)  
-- `Lerp (Float)`  
-- `Set Actor Transform`  
-
-#### Construction Script Setup
-- `Set Actor Location`  
-- `Get Location at Spline Point` (Coordinate Space: World)  
-
-
----
-
 # Homework
 
-## Week 5 Homework: Interaction Study (Due 09/22)
+## Week 4 Homework: Interaction Study (Due 09/22)
 
 ### Assignment Details
 This week you will create a small new project in Unreal Engine focused on basic interaction.  
@@ -173,7 +127,6 @@ The purpose of this exercise is to introduce Blueprint scripting for interaction
 **3. Design Interactions and Outcomes**
 - One interaction should reset the current level.  
 - Another interaction should load a different level.  
-- Include movement or physics to at least one Actor. _Try to make it meaningful..._
 
 **4. Comment and Organize**
 - Try rebuilding the Blueprints we demonstrated in class, but do not copy and paste from shared files.  
@@ -193,6 +146,6 @@ In this folder, include:
 
 ### Tips and Reminders
 - Keep it simple! This assignment should take no more than 5 hours. 
-- Make sure interactable Actors are set to Movable in the Details panel if needed.
+- Make sure interactable Actors are set to Movable in the Details panel if needed for physics.
 - Test interactions frequently in Play Mode  
 - Use Print String to debug before adding more complex behavior _but don't forget to remove them once done!_  
