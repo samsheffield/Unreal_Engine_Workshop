@@ -74,7 +74,7 @@ We’ll focus on Blueprint Classes (Actor Blueprints) because:
 ---
 
 ## Blueprint Resources:
-- **This week's notes on materials can be found [here](week4_bpnotes.md)**
+- **This week's notes on Blueprints can be found [here](week4_bpnotes.md)**
 - Unreal Engine Blueprint documentation can be found [here](https://dev.epicgames.com/documentation/en-us/unreal-engine/blueprints-visual-scripting-in-unreal-engine?application_version=5.6).
 - Blueprints Visual Scripting for Unreal Engine 5 - Third Edition ([link](https://www.packtpub.com/product/blueprints-visual-scripting-for-unreal-engine-5-third-edition/9781801811583)).
 
