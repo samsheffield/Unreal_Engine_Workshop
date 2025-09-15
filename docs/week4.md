@@ -104,7 +104,9 @@ We’ll focus on Blueprint Classes (Actor Blueprints) because:
 ### Assignment Details
 This week you will create a small new project in Unreal Engine focused on basic interaction.  
 
-Your task is to design a simple level where the player can interact with objects through collision or proximity and trigger outcomes such as resetting the current level or moving to a new level.  
+Your task is to design a simple level where the player can interact with objects through collision or proximity and trigger outcomes such as resetting the current level or moving to a new level. Use the level's design to complicate the player's ability to interact with the objects.
+
+Consider the relationship to the player has to the objects and why they might want to interact with them.
 
 ### Assignment Goal
 The purpose of this exercise is to introduce Blueprint scripting for interaction. You will learn how to:  
