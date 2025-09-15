@@ -35,12 +35,13 @@ Week 2 (09/01):
 [Week 4 (09/15)](week4.md):
 - Introduction to Blueprints
 - Managing Levels/Maps
-- Making Actors move with Blueprints!
+- Collision and Physics
 
 [Week 5 (09/22)]():
 - Importing static meshes from Blender/Maya/etc. (FBX files)
 - Working with UE5's static mesh modeling tools 
 - Editing colliders
+- Making Actors move with Blueprints!
 
 [Week 6 (09/29)]():
 - Introduction to Landscape and Foliage tools
