@@ -6,7 +6,7 @@ So excited to welcome you all back from the holiday. Today, we'll meet as a grou
 
 We'll also...
 - Door Problem + Video
-- Review your homework from week 2
+- Review your homework from week 3
 
 ## Video Demos
 Weekly demo videos can be found on our class Canvas Welcome page. I will have new videos posted no later than Wednesday evening most weeks.
@@ -74,7 +74,7 @@ We’ll focus on Blueprint Classes (Actor Blueprints) because:
 ---
 
 ## Blueprint Resources:
-- **This week's notes on Blueprints can be found [here](week4_bpnotes.md)**
+- **This week's notes on Blueprints can be found [here](https://samsheffield.github.io/Unreal_Engine_Workshop/week4_bpnotes.html)**
 - Unreal Engine Blueprint documentation can be found [here](https://dev.epicgames.com/documentation/en-us/unreal-engine/blueprints-visual-scripting-in-unreal-engine?application_version=5.6).
 - Blueprints Visual Scripting for Unreal Engine 5 - Third Edition ([link](https://www.packtpub.com/product/blueprints-visual-scripting-for-unreal-engine-5-third-edition/9781801811583)).
 
