@@ -38,15 +38,23 @@ Week 2 (09/01):
 - Collision and Physics
 
 [Week 5 (09/22)]():
-- Importing static meshes from Blender/Maya/etc. (FBX files)
-- Working with UE5's static mesh modeling tools 
+- Geometry Brush introduction
+- Approaches to organizing/grouping Actors
 - Editing colliders
-- Making Actors move with Blueprints!
+- Material Instancing
+- Importing Starter Content
+
 
 [Week 6 (09/29)]():
-- Introduction to Landscape and Foliage tools
+- Importing static meshes from Blender/Maya/etc. (FBX files)
+- Intro to UE5's static mesh modeling tools
+- Connecting to Fab
+- Introduction to Landscape 
+- Keeping count with Blueprints
 
 [Week 7 (10/06)]():
+- Foliage tools
+- Making Actors move with Blueprints!
 - Providing feedback
 - Creating SFX using Niagara
 - Working with sound
