@@ -45,25 +45,23 @@ Week 2 (09/01):
 - Importing Starter Content
 
 
-[Week 6 (09/29)]():
+[Week 6 (09/29)](week6.md):
 - Importing static meshes from Blender/Maya/etc. (FBX files)
 - Intro to UE5's static mesh modeling tools
-- Connecting to Fab
-- Introduction to Landscape 
-- Keeping count with Blueprints
+- Keeping count with Blueprints (Functions and Custom Events)
+- Making Actors move with Blueprints!
 
 [Week 7 (10/06)]():
-- Foliage tools
-- Making Actors move with Blueprints!
-- Providing feedback
-- Creating SFX using Niagara
-- Working with sound
+- Landscape and Foliage tools
+- Connecting to Fab
 
 Week 8 (10/13):
 - Fall Break
 
 [Week 9 (10/20)]():
-- Game logic basics (keeping track of interactions, score keeping, starting and ending levels)
+- Providing feedback
+- Creating SFX using Niagara
+- Working with sound
 - Creating User Interfaces with Widget Blueprints
 
 [Week 10 (10/27)]():
