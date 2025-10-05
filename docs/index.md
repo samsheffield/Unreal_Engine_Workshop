@@ -51,7 +51,7 @@ Week 2 (09/01):
 - Keeping count with Blueprints (Functions and Custom Events)
 - Making Actors move with Blueprints!
 
-[Week 7 (10/06)]():
+[Week 7 (10/06)](week7.md):
 - Landscape Tool introduction
 - Connecting to Fab
 - Spline-based movement

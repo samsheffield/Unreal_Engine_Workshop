@@ -137,9 +137,9 @@ Your task is to import at least one custom static mesh from a DCC tool (Maya, Bl
 - Create a static mesh in the DCC of your choice (Not an animator? It does not need to be complex!) __Do not use an FBX which you find online.__
 - Import a static mesh as an FBX and check for common issues
 - Rebuild Materials in Unreal Engine
-- Use Modeling Tools to make small mesh adjustments
+- Use Modeling Tools to make small mesh adjustments~~~~
 - Spawn an Actor into the level at runtime
-- Animate an Actor using a Timeline and `Lerp (Vector)`
+- Animate an Actor using a `Timeline` and `Lerp (Vector)`
 - Create a collectable Actor with collision
 - Communicate between Blueprints to increment a counter (using a variable) on the player Blueprint (It can Print String or do something like change level or destroy an actor)
 - Organize and comment Blueprint logic clearly
@@ -155,6 +155,7 @@ In this folder, include:
   1. A mesh edited with Modeling Tools
   2. A spawned Actor moving with a Timeline
   3. The collectable Actor and the counter increment on your First Person Character
+- The original (non-FBX) 3D file created in your DCC
 
 ### Tips and Reminders
 - This assignment does not need to be a cohesive environment

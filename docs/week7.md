@@ -1,4 +1,20 @@
-# Landscape and Foliage Modes
+# W E L C O M E ! !
+So excited to welcome you all back. Today, we'll meet as a group to discuss...
+- Landscape Tools introduction
+- Landscape Materials basics
+- Spline-based movement (Blueprints)
+
+
+## Video Demos
+Weekly demo videos can be found on our class Canvas Welcome page. I will have new videos posted no later than Wednesday evening most weeks.
+
+_Need a specific demo?_ Let me know!
+
+
+## Reminder: Unreal Engine 5.6 Documentation
+In addition to what we cover in class each week, the greatest place you can look for additional information is [the official documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-6-documentation). Check it out!
+
+---
 
 ## Landscape Tools
 The Landscape system inside of Unreal Engine is a collection of tools that allow you to create expansive outdoor environments.
@@ -6,7 +22,7 @@ The Landscape system inside of Unreal Engine is a collection of tools that allow
 Unreal's Documentation on the Landscape Editing Mode can be found [here](https://docs.unrealengine.com/5.4/en-US/editing-landscapes-in-unreal-engine/)
 
 ### How to access the tools
-The Layout Mode tools can be accessed from the Modes dropdown menu in the Toolbar.
+The Landscape Mode tools can be accessed from the Modes dropdown menu in the Toolbar.
 
 ### Landscape Editor's Modes
 There are three modes to the Landscape tools:
@@ -14,12 +30,9 @@ There are three modes to the Landscape tools:
 - Sculpt: Used to shape the landscape by manipulating the height of the terrain in different ways
 - Paint: Used to apply weighted landscape materials to the terrain
 
-### Demo Goals
-Due to our abbreviated class, we will split our demo into two parts over the next two weeks. This week we'll focus on:
-- Working with splines
-- Adding grass and foliage
-- Adding assets from Quixel Bridge or Fab (fingers crossed!)
+### Creating a new Landscape Asset
 
+### Sculpting the LAndscape
 
 ### Landscape Splines
 
