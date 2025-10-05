@@ -52,13 +52,15 @@ Week 2 (09/01):
 - Making Actors move with Blueprints!
 
 [Week 7 (10/06)]():
-- Landscape and Foliage tools
+- Landscape Tool introduction
 - Connecting to Fab
+- Spline-based movement
 
 Week 8 (10/13):
 - Fall Break
 
 [Week 9 (10/20)]():
+- Adding Foliage
 - Providing feedback
 - Creating SFX using Niagara
 - Working with sound
