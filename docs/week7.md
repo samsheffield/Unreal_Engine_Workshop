@@ -96,21 +96,6 @@ Tips:
 
 ---
 
-### Landscape Splines
-
-Splines can be used to create paths, roads, rivers, or other curved geometry that conforms to the landscape.
-
-Steps to use Splines:
-
-1. Create a new Landscape Edit Layer.  
-2. Right-click the new layer and select Reserve for Splines.  
-3. Use Ctrl + Click in the viewport to add spline control points.  
-4. Move or rotate control points with standard transform tools.  
-5. Adjust the tangent handles to refine curve shape.  
-6. Change spline width using the Half Width property.
-
----
-
 ### Landscape Material Basics
 
 Landscape Materials define the textures and blending of surfaces (for example, grass, dirt, or rock).
