@@ -142,7 +142,7 @@ In a Construction Script:
 ### Assignment Details
 This week you will begin working with Unreal Engine’s Landscape Tools to create a small outdoor environment, designed to lead a player toward a destination.   
 
-You will create **two versions** of the same scene in two differnt levels:
+You will create **two versions** of the same scene in two different levels:
 1. A **Blockout Level (Greybox)** used to establish basic proportions and scale.
 2. A **Refined Level** where placeholder geometry is replaced with sculpted landscape details, improved lighting, and early materials.
 
