@@ -59,18 +59,20 @@ Week 2 (09/01):
 Week 8 (10/13):
 - Fall Break
 
-[Week 9 (10/20)]():
+[Week 9 (10/20)](week9.md):
 - Adding Foliage
 - Providing feedback
-- Creating SFX using Niagara
+- Creating particle systems using Niagara
 - Working with sound
-- Creating User Interfaces with Widget Blueprints
+
 
 [Week 10 (10/27)]():
+- Creating User Interfaces with Widget Blueprints (1/2)
 - Intro to Animation Systems in UE5
 - Level Sequencer
 
 [Week 11 (11/03)]():
+- Creating User Interfaces with Widget Blueprints (2/2)
 - Skeletal Mesh Animation Basics
 
 [Week 12 (11/10)]():
