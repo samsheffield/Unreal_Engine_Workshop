@@ -66,16 +66,18 @@ Week 8 (10/13):
 - Working with sound
 
 
-[Week 10 (10/27)]():
+[Week 10 (10/27)](week10.md):
 - Creating User Interfaces with Widget Blueprints (1/2)
-- Intro to Animation Systems in UE5
-- Level Sequencer
+- Game Mode and Game Instance Blueprints to share data across levels
+
 
 [Week 11 (11/03)]():
-- Creating User Interfaces with Widget Blueprints (2/2)
+- Intro to Animation Systems in UE5
+- Level Sequencer
 - Skeletal Mesh Animation Basics
 
 [Week 12 (11/10)]():
+- Creating User Interfaces with Widget Blueprints (2/2)
 - Skeletal Mesh Animation Continued
 
 [Week 13 (11/17)]():
