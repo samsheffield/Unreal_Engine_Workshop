@@ -71,7 +71,7 @@ Week 8 (10/13):
 - Game Mode and Game Instance Blueprints to share data across levels
 
 
-[Week 11 (11/03)]():
+[Week 11 (11/03)](week11.md):
 - Intro to Animation Systems in UE5
 - Level Sequencer
 - Skeletal Mesh Animation Basics
