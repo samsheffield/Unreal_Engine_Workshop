@@ -94,11 +94,11 @@ Discussion:
 Create a short animated scene that combines skeletal animation systems in Unreal Engine 5.6.
 
 Your project should demonstrate:
-- Imported skeletal mesh and animation  
-- Basic Animation Blueprint with Idle → Some Other State transition  
-- Simple Control Rig animation using Modular Rig  
-- Level Sequencer cutscene using a CineCameraActor  
-- Blueprint logic that triggers the sequence  
+- Imported skeletal mesh and animation (Mixamo and Fab are good sources)
+- Basic Animation Blueprint with Idle → Some Other State transition in a State Machine 
+- Simple Control Rig animation using Modular Rig, baked to an Animation Sequence 
+- Level Sequencer cutscene/cinematic using a CineCameraActor  
+- Cinematic launches at start of level (Optional: Level Blueprint logic that triggers the sequence)
 
 ### Estimated Completion Time: ~5 hours
 
