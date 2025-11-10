@@ -76,11 +76,11 @@ Week 8 (10/13):
 - Level Sequencer
 - Skeletal Mesh Animation Basics
 
-[Week 12 (11/10)]():
-- Creating User Interfaces with Widget Blueprints (2/2)
+[Week 12 (11/10)](week12.md):
 - Skeletal Mesh Animation Continued
 
 [Week 13 (11/17)]():
+- Creating User Interfaces with Widget Blueprints (2/2)
 - Begin Final Project
 
 [Week 14 (11/24)]():
