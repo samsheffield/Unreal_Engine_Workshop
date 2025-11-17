@@ -79,7 +79,7 @@ Week 8 (10/13):
 [Week 12 (11/10)](week12.md):
 - Skeletal Mesh Animation Continued
 
-[Week 13 (11/17)]():
+[Week 13 (11/17)](week13.md):
 - Creating User Interfaces with Widget Blueprints (2/2)
 - Begin Final Project
 
