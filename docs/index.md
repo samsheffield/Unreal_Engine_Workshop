@@ -83,11 +83,11 @@ Week 8 (10/13):
 - Creating User Interfaces with Widget Blueprints (2/2)
 - Begin Final Project
 
-[Week 14 (11/24)]():
+[Week 14 (11/24)](week14.md):
 - Planning materials due for Final Project
 - Work Session
 
-[Week 15 (12/01)]():
+[Week 15 (12/01)](week15.md):
 - Work Session for Final Projects
 - How to package UE5 projects for distribution
 
